@@ -1,0 +1,1 @@
+This fork of el-get linum mode disables automatically fringe-mode and increase the linum width to avoid fringe bugs.
